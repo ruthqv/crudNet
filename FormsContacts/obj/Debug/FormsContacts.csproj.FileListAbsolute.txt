@@ -1,0 +1,9 @@
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\bin\Debug\FormsContacts.exe.config
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\bin\Debug\FormsContacts.exe
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\bin\Debug\FormsContacts.pdb
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.csprojAssemblyReference.cache
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.Form1.resources
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.Properties.Resources.resources
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.csproj.GenerateResource.cache
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.exe
+C:\Users\rquintana\source\repos\FormsContacts\FormsContacts\obj\Debug\FormsContacts.pdb
